@@ -23,6 +23,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
+  </action>
   <action id="GotoBookmark7" />
   <action id="NewElement" />
   <action id="SwitchApply">
