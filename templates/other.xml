@@ -1,0 +1,26 @@
+<templateSet group="other">
+  <template name="sin" value="Scanner in = new Scanner(System.in);" description="custom - Inserts System.in" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="imscan" value="import java.util.Scanner;" description="Import Scanner" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try&#10;{&#10;    $TRY$&#10;}&#10;catch (Exception ex)&#10;{&#10;    $CATCH$&#10;}&#10;$END$" description="Try Catch" toReformat="false" toShortenFQNames="true">
+    <variable name="TRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CATCH" expression="" defaultValue="Console.out.println(ex.getMessage());" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="while" value="while ($what$)&#10;{&#10;    $something$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="something" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

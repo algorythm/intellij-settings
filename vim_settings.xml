@@ -1,0 +1,859 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge2.java" timestamp="1474817927439">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/GameLogic.java" timestamp="1480287953122">
+        <mark key="'" line="169" column="6" />
+      </file>
+      <file name="/a.dummy" timestamp="1483654174569">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/src/Test.puml" timestamp="1475875430195">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DiceCup/src/DiceCup/DiceCup.java" timestamp="1474750172782">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Month.java" timestamp="1474810979394">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Player/src/Player.java" timestamp="1475878355966">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test01/src/NyKlasse.java" timestamp="1473519656717">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DeleteMe/src/Player.java" timestamp="1476827873046">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Banking/Address.java" timestamp="1474812146476">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge5_Helpers/Car.java" timestamp="1474815520789">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Opgave.java" timestamp="1474817835023">
+        <mark key="[" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/chanceCards/BalanceCard.java" timestamp="1483660412582">
+        <mark key="[" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/ChatServer.java" timestamp="1474667309814">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/fields/LaborCamp.java" timestamp="1480032260028">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="43" column="78" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/src/GameLogic.java" timestamp="1475869227087">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_20160929_pandekager/src/Main.java" timestamp="1472643726350">
+        <mark key="'" line="31" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge5_Helpers/Point.java" timestamp="1474814389324">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Dice/src/Dice.java" timestamp="1475877845871">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/Lang.java" timestamp="1483658350649">
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="133" />
+        <mark key="." line="33" column="133" />
+        <mark key="^" line="33" column="133" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Banking/Account.java" timestamp="1474812522002">
+        <mark key="'" line="7" column="70" />
+        <mark key="[" line="95" column="4" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/ClientThread.java" timestamp="1474746472863">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del2/src/Player.java" timestamp="1477822582808">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="73" />
+        <mark key="." line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge3.java" timestamp="1474817945327">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceCupTest.java" timestamp="1475878003144">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/test/src/Main.java" timestamp="1472230902341">
+        <mark key="'" line="18" column="1" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge5.java" timestamp="1474817889663">
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+        <mark key="^" line="45" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge5_Helpers/Color.java" timestamp="1474815860806">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Forberedelse/src/Animal.java" timestamp="1473514968565">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_20160929_pandekager/.gitignore" timestamp="1472421565222">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="107" column="16" />
+        <mark key="^" line="107" column="16" />
+        <mark key="." line="107" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/models/BankAcct.java" timestamp="1483659885935">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/java-chat/src/Server.java" timestamp="1474646997730">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" timestamp="1483469582763">
+        <mark key="'" line="70" column="29" />
+        <mark key="[" line="99" column="8" />
+        <mark key="]" line="99" column="7" />
+        <mark key="." line="99" column="7" />
+        <mark key="^" line="99" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DeleteMe/src/Character.java" timestamp="1476779771802">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Banking/Transactions.java" timestamp="1474813118955">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/java-chat/src/ServerThread.java" timestamp="1474645614244">
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/src/Board.java" timestamp="1475702791106">
+        <mark key="[" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/fields/Ownable.java" timestamp="1483725399326">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Forberedelse/src/App.java" timestamp="1473515135687">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/CentralizedGameInformationDistributionRepository.java" timestamp="1483654289265">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Helper.java" timestamp="1474817524231">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="60" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/ChatMessage.java" timestamp="1474666114879">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/fields/Business.java" timestamp="1483725513942">
+        <mark key="[" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/fields/Field.java" timestamp="1483658541472">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LaernJava/.idea/copyright/profiles_settings.xml" timestamp="1472225496780">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Die/src/IDie.java" timestamp="1476028942957">
+        <mark key="'" line="5" column="22" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del2/tests/DieTest.java" timestamp="1477822232521">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Dice/src/DiceCup.java" timestamp="1475877876593">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/TestDie.java" timestamp="1480429043007">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DiceCup/src/DiceCup/Dice.java" timestamp="1474751062270">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge5_Helpers/CarProducents.java" timestamp="1474814541485">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LaernJava/src/main.java" timestamp="1472225925352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test01/src/App.java" timestamp="1473555710983">
+        <mark key="'" line="25" column="58" />
+        <mark key="[" line="20" column="175" />
+        <mark key="]" line="14" column="51" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/ChatClient.java" timestamp="1474667317286">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del2/src/DieCup.java" timestamp="1477822201562">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="73" />
+        <mark key="." line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/fields/Field.java" timestamp="1480032566108">
+        <mark key="[" line="9" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/tests/PlayerTest.java" timestamp="1475664604124">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/DiceCup.java" timestamp="1480430565330">
+        <mark key="'" line="79" column="53" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="12" />
+        <mark key="." line="64" column="12" />
+        <mark key="^" line="64" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/test-java-autobuild/application.properties" timestamp="1472757289921">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/test-java-autobuild/build.xml" timestamp="1472758451027">
+        <mark key="[" line="5" column="72" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/test-java-autobuild/.gitignore" timestamp="1472755659449">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="56" column="16" />
+        <mark key="^" line="56" column="16" />
+        <mark key="." line="56" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/models/GameController.java" timestamp="1483657883401">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/TestDiceCup.java" timestamp="1480430454223">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="19" column="36" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/tests/GameLogicTest.java" timestamp="1475665481115">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/GUI/src/App.java" timestamp="1475878535879">
+        <mark key="[" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/test/src/TestClass.java" timestamp="1472229753879">
+        <mark key="[" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del2/src/Die.java" timestamp="1477822229561">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/ServerThread.java" timestamp="1483469610724">
+        <mark key="'" line="48" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_20160929_pandekager/src/Pancake.java" timestamp="1472643741177">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DeleteMe/tests/AnimalTest.java" timestamp="1474751351909">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/src/MP3.java" timestamp="1475870301310">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="41" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/java-chat/src/ClientThread.java" timestamp="1474645902299">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="55" />
+        <mark key="^" line="57" column="29" />
+        <mark key="." line="16" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/Client.java" timestamp="1474746854891">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+        <mark key="^" line="54" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DiceCup/src/App.java" timestamp="1474748745986">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/fields/Fleet.java" timestamp="1480109093232">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/models/Bank.java" timestamp="1483655680667">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/src/App.java" timestamp="1475870297933">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge5_Helpers/LicensePlate.java" timestamp="1474815670533">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/User.java" timestamp="1474746753797">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Dice/src/IDice.java" timestamp="1476025612600">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/models/Player.java" timestamp="1483659605759">
+        <mark key="[" line="37" column="63" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="37" column="61" />
+        <mark key="^" line="37" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/chanceCards/ChanceCard.java" timestamp="1483659321240">
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="49" />
+        <mark key="^" line="32" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/lang_da_DK.properties" timestamp="1483658814528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Player/tests/PlayerTest.java" timestamp="1475878408230">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" timestamp="1474818869019">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="61" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/CDIO_del1/src/Player.java" timestamp="1475665649820">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="105" column="60" />
+        <mark key="^" line="105" column="60" />
+        <mark key="." line="105" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/GUI/GameGUI.java" timestamp="1480296441775">
+        <mark key="'" line="252" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/App.java" timestamp="1474744904135">
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="16" column="45" />
+        <mark key="^" line="16" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/test-java-autobuild/README.md" timestamp="1472756091153">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DeleteMe/src/App.java" timestamp="1476827741606">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/chat-system/src/ChatClientThread.java" timestamp="1474667288126">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" timestamp="1476040991226">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="69" column="74" />
+        <mark key="]" line="67" column="38" />
+        <mark key="." line="67" column="38" />
+        <mark key="^" line="67" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/Uge1_Opgaver/src/Min.java" timestamp="1472842914401">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Die/src/IDieCup.java" timestamp="1476041082378">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4.java" timestamp="1474817984967">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="95" column="26" />
+        <mark key="." line="95" column="26" />
+        <mark key="^" line="95" column="26" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/test/src/Beer.java" timestamp="1472230927904">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472418031702">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceTest.java" timestamp="1475877965119">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/models/GameLogic.java" timestamp="1480032784587">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="54" column="75" />
+        <mark key="]" line="95" column="11" />
+        <mark key="^" line="95" column="11" />
+        <mark key="." line="95" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/Die.java" timestamp="1480429013184">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Vector.java" timestamp="1474804533764">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DeleteMe/src/Animal.java" timestamp="1474799477131">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/models/Player.java" timestamp="1480032655099">
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="147" column="54" />
+        <mark key="^" line="147" column="54" />
+        <mark key="." line="147" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/Main.java" timestamp="1483659394168">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="76" />
+        <mark key="." line="11" column="76" />
+        <mark key="^" line="11" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/del3/src/Main.java" timestamp="1480431109943">
+        <mark key="'" line="3" column="73" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/java-chat/src/Client.java" timestamp="1474647195863">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1480113162741">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/ChanceCard.java" timestamp="1483654209911">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/test-java-autobuild/src/App.java" timestamp="1472755687920">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="39" column="29" filename="$USER_HOME$/Documents/GitHub/dtu_20160929_pandekager/src/Main.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_20160929_pandekager/src/Main.java" />
+      <jump line="49" column="24" filename="$USER_HOME$/Documents/GitHub/dtu_20160929_pandekager/src/Main.java" />
+      <jump line="31" column="30" filename="$USER_HOME$/Documents/GitHub/dtu_20160929_pandekager/src/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GitHub/test-java-autobuild/application.properties" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/GitHub/Uge1_Opgaver/src/Min.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/Uge1_Opgaver/src/App.java" />
+      <jump line="14" column="30" filename="$USER_HOME$/Documents/GitHub/dtu_lek2_opg5-8/src/App.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_lek2_opg5-8/src/App.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_lek2_opg5-8/src/App.java" />
+      <jump line="13" column="35" filename="$USER_HOME$/Documents/GitHub/dtu_lek2_opg5-8/src/App.java" />
+      <jump line="23" column="77" filename="$USER_HOME$/Desktop/test01/src/App.java" />
+      <jump line="24" column="58" filename="$USER_HOME$/Desktop/test01/src/App.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="35" column="8" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="72" column="7" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Client.java" />
+      <jump line="54" column="15" filename="$USER_HOME$/Documents/GitHub/chat-system/src/App.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/GitHub/chat-system/src/App.java" />
+      <jump line="37" column="7" filename="$USER_HOME$/Documents/GitHub/chat-system/src/App.java" />
+      <jump line="25" column="7" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="1" column="1" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="22" column="36" filename="$USER_HOME$/Documents/GitHub/DiceCup/src/DiceCup/Dice.java" />
+      <jump line="22" column="7" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4.java" />
+      <jump line="46" column="35" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Opg17A_Dato.java" />
+      <jump line="49" column="36" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" />
+      <jump line="23" column="39" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" />
+      <jump line="4" column="69" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Banking/Address.java" />
+      <jump line="5" column="70" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Banking/Account.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Banking/Address.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/Uge4_Helpers/Banking/Transactions.java" />
+      <jump line="56" column="35" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" />
+      <jump line="10" column="31" filename="$USER_HOME$/Documents/GitHub/dtu_prog_opgaver_s1/src/App.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/Documents/GitHub/CDIO_del1/src/Player.java" />
+      <jump line="106" column="23" filename="$USER_HOME$/Documents/GitHub/CDIO_del1/src/Player.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/CDIO_del1/src/Player.java" />
+      <jump line="3" column="21" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceTest.java" />
+      <jump line="3" column="24" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceCupTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceCupTest.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceCupTest.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/tests/DiceCupTest.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Player/src/Player.java" />
+      <jump line="5" column="24" filename="$USER_HOME$/Documents/GitHub/DTU/Player/tests/PlayerTest.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Player/tests/PlayerTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Dice/src/IDice.java" />
+      <jump line="17" column="15" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/Die.java" />
+      <jump line="33" column="21" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/Die.java" />
+      <jump line="40" column="16" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/Die.java" />
+      <jump line="19" column="4" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/Die.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/Die.java" />
+      <jump line="43" column="6" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/Die.java" />
+      <jump line="42" column="6" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/Die.java" />
+      <jump line="3" column="22" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/IDie.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="18" column="12" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="61" column="7" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="15" column="12" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="66" column="23" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="60" column="12" filename="$USER_HOME$/Documents/GitHub/DTU/Die/src/DieCup.java" />
+      <jump line="11" column="3" filename="$USER_HOME$/Documents/GitHub/DeleteMe/tests/PlayerTest.java" />
+      <jump line="14" column="30" filename="$USER_HOME$/Documents/GitHub/DeleteMe/tests/PlayerTest.java" />
+      <jump line="19" column="21" filename="$USER_HOME$/Documents/GitHub/DeleteMe/tests/PlayerTest.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/CDIO_del2/src/Player.java" />
+      <jump line="90" column="39" filename="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/models/GameLogic.java" />
+      <jump line="154" column="6" filename="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/models/GameLogic.java" />
+      <jump line="177" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/models/GameLogic.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/CDIO_del3/src/models/GameLogic.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/Main.java" />
+      <jump line="114" column="16" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/Player.java" />
+      <jump line="27" column="23" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/Player.java" />
+      <jump line="56" column="18" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/GameLogic.java" />
+      <jump line="65" column="20" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/GameLogic.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/GameLogic.java" />
+      <jump line="34" column="4" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/Player.java" />
+      <jump line="40" column="47" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/GameLogic.java" />
+      <jump line="24" column="17" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/Player.java" />
+      <jump line="182" column="25" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/GameLogic.java" />
+      <jump line="171" column="6" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/GameLogic.java" />
+      <jump line="252" column="38" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/GUI/GameGUI.java" />
+      <jump line="79" column="30" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/fields/Ownable.java" />
+      <jump line="3" column="73" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/Main.java" />
+      <jump line="79" column="53" filename="$USER_HOME$/Documents/GitHub/DTU/del3/src/models/DiceCup.java" />
+      <jump line="99" column="7" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="70" column="29" filename="$USER_HOME$/Documents/GitHub/chat-system/src/Server.java" />
+      <jump line="69" column="7" filename="$USER_HOME$/Documents/GitHub/chat-system/src/ServerThread.java" />
+      <jump line="48" column="23" filename="$USER_HOME$/Documents/GitHub/chat-system/src/ServerThread.java" />
+      <jump line="19" column="67" filename="$USER_HOME$/Documents/GitHub/DTU/CDIO_final/src/chanceCards/ChanceCard.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpZWxkTmFtZSA9IGZpZWxkTmFtZTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>private</text>
+      </register>
+      <register name="/" type="4">
+        <text>price</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJVc2FnZTogamF2YSAtamFyIGdhbWUuamFyIDxsYW5ndWFnZT4gPGNvdW50cnk+Iik7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpZWxkTmFtZSA9IGZpZWxkTmFtZTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihmaWVsZE5hbWUyKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHJlY2VpdmVDYXJkKGludCBiYWxhbmNlKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>price</last-search>
+      <last-offset />
+      <last-pattern>price</last-pattern>
+      <last-replace>Pancake</last-replace>
+      <last-substitute>The rent is</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>chat</entry>
+        <entry encoding="base64">XDx0b0xvd2VyQ2FzZVw+</entry>
+        <entry>getRent</entry>
+        <entry>setCurrent</entry>
+        <entry>setCurrentField</entry>
+        <entry>The rent is</entry>
+        <entry>Balance is now</entry>
+        <entry>balance is now</entry>
+        <entry>hasWon</entry>
+        <entry>removePLayer</entry>
+        <entry>bankru</entry>
+        <entry>remove</entry>
+        <entry>TODO</entry>
+        <entry>currently owned by</entry>
+        <entry>Walled</entry>
+        <entry>this == o</entry>
+        <entry>getResults</entry>
+        <entry>playerPur</entry>
+        <entry>handle</entry>
+        <entry>price</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/pcake/Pancake/g</entry>
+        <entry>%s/pcake/Pancake</entry>
+        <entry>e test.java</entry>
+        <entry>e app</entry>
+        <entry>e min</entry>
+        <entry>e Min</entry>
+        <entry>e Min.java</entry>
+        <entry>e Uge3</entry>
+        <entry>e Uge3.java</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

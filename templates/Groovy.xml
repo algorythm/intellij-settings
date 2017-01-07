@@ -1,0 +1,5 @@
+<templateSet group="Groovy">
+  <template name="sin" value="System.in" description="TESTIONGfsdFSADFJDSAFKJ" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
