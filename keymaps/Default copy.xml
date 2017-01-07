@@ -19,6 +19,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="f13" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl enter" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
