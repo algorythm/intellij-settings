@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/hold11/CDIO_final" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hold12/h12B-TCPIP-01.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\AndersWOlsen\Documents\GitHub\DTU" />
